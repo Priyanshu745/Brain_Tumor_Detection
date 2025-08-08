@@ -45,7 +45,7 @@ This is a web application built using **TensorFlow**, **Keras**, and **Streamlit
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/shubhambhumi07/Brain_Tumor_Detection.git
+   git clone https://github.com/Priyanshu745/Brain_Tumor_Detection.git
    cd brain-tumor-detector
    ```
 
@@ -144,6 +144,6 @@ To deploy on **Streamlit Cloud**:
 
 ### 📬 Contact
 
-**Shubham Singh**
-Email: [shubhamsinghbhumi@gmail.com](mailto:shubhamsinghbhumi@gmail.com)
-GitHub: [@shubhambhumi07](https://github.com/shubhambhumi07)
+**Priyanshu**
+Email: [parasharp694@gmail.com](mailto:parasharp694@gmail.com)
+GitHub: [@Priyanshu745](https://github.com/Priyanshu745)
